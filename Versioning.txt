@@ -1,10 +1,10 @@
+Test
+
 Why  am I explaining?
 
 Two purposes
 a) Most of the custom visuals code is in Github, to download and understand this knowledge is required.
-b) To know  about versioning processing process
-
-
+b) To know  about versioning processing process.
 
 Git Hub : Documents controlling cum versioning component
 
