@@ -1,0 +1,108 @@
+Why  am I explaining?
+
+Two purposes
+a) Most of the custom visuals code is in Github, to download and understand this knowledge is required.
+b) To know  about versioning processing process
+
+
+
+Git Hub : Documents controlling cum versioning component
+
+
+
+
+Versioning
+
+Maintaining multiple copies of the same document with multiple changes is called as versioning.
+In real time all organizations implement this as part of documents storing and keep tracking of changes.
+
+Microsoft applications frequently used versioning tools
+
+a) TFS [Team Foundation Server]
+b) Git Hub
+c) VSS [Visual Source Safe]
+e) SVN [Sub Version] etc.
+
+
+Third Party
+
+PVCS 
+SubVersion
+
+etc...
+
+
+GitHub
+======
+Source code build, control and version maintenance service.
+
+Step 1:
+
+Here we create a repository and all documents store under repository master branch.
+Versioning maintained in that branch only.
+
+Step 2:
+
+In case any doc change required, create a child branch, take documents, download them.
+Work on  the documents, place in the child branch.
+
+Step 3:
+
+Later merge the child branch documents with parent branch [master].
+
+Step 4:
+
+Remove the child branch after operations.
+
+Step 5:
+
+Now the master havig multiple versions for the documents in the repository.
+
+Your Github work
+--------------------
+
+1. Create a Github account
+2. Create a repository, upload files to Master Branch
+3. Create a child branch, download child branch data, modify the files
+4. Pull, Compare & Merge to Master Branch
+5. Delete Child Branch
+6. Master branch--> docs--> History--> Monitor the history
+
+
+
+
+
+
+
+
+
+
+https://github.com/vinaytechhouse/7AM_MAY_2021_Business_Tech_Docs.git
+
+
+TFS: Team Foundation Server...Follow the same steps
+
+
+Each company mandatorily maintain
+
+a) Document controlling [GitHub...]
+b) Versioning controlling [Github]
+c) Scheduling [Regular delivery of reports and dashboards: Power BI Service, Micrsoft Flow...]
+d) Life Cycle  [Agile Life Cycle]
+components
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
